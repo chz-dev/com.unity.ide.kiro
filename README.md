@@ -3,7 +3,7 @@
 1. Open Unity and navigate to **Window → Package Manager**
 2. Click the **"+"** button in the top left corner
 3. Select **"Add package from git URL"**
-4. Enter the following URL: `https://github.com/huynguyen03dev/com.unity.ide.kiro.git`
+4. Enter the following URL: `https://github.com/chz-dev/com.unity.ide.kiro.git`
 5. Click **"Add"**
 6. Installation complete!
 
